@@ -17,5 +17,5 @@ month = now.month
 day_of_week = now.weekday()
 print(day_of_week)
 
-day_of_birth = dt.datetime(year=1995, month=3, day=22, hour=12)
+day_of_birth = dt.datetime(year=2001, month=2, day=12, hour=12)
 print(day_of_birth)
