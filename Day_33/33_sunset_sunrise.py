@@ -1,10 +1,8 @@
 import requests
 from datetime import datetime
-NY_LATITUDE = 40.736881
-NY_LONGITUDE = -73.816681
+NY_LATITUDE = 51.507351
+NY_LONGITUDE = -0.127758
 
-MY_LAT = 51.507351
-MY_LNG = -0.127758
 
 parameters = {
     "lat": NY_LATITUDE,
