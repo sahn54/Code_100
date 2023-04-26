@@ -5,8 +5,7 @@ import smtplib
 
 MY_LAT = 40.736881  # Your latitude
 MY_LONG = -73.816681  # Your longitude
-MY_EMAIL = "sungpower177@gmail.com"
-MY_PASSWORD = "yvnmixdwegciqwus"
+
 
 
 def is_iss_overhead():
